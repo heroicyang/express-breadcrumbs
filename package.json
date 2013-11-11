@@ -1,0 +1,20 @@
+{
+  "name": "express-breadcrumbs",
+  "version": "0.0.1",
+  "description": "Easy to use generic breadcrumbs middleware for Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heroicyang/express-breadcrumbs.git"
+  },
+  "keywords": [
+    "breadcrumbs",
+    "express",
+    "express-breadcrumbs"
+  ],
+  "author": "Heroic Yang <me@heroicyang.com>",
+  "license": "MIT"
+}
