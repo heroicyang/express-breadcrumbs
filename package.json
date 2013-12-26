@@ -1,14 +1,14 @@
 {
   "name": "express-breadcrumbs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Easy to use generic breadcrumbs middleware for Express.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/heroicyang/express-breadcrumbs.git"
+  },
+  "dependencies": {
+    "lodash": "~2.1.0"
   },
   "keywords": [
     "breadcrumbs",
