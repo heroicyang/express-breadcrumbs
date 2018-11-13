@@ -8,7 +8,7 @@
     "url": "git://github.com/heroicyang/express-breadcrumbs.git"
   },
   "dependencies": {
-    "lodash": "~2.4.1"
+    "lodash": "~4.17.5"
   },
   "keywords": [
     "breadcrumbs",
